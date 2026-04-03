@@ -49,14 +49,9 @@ The repository is organized as follows:
 ```text
 amazon-review-fraud-analysis/
 │
-├── notebooks/
-│   └── Final_Project.ipynb
-│
-├── reports/
-│   └── amazon_review_fraud_slides.pptx
-│
+├── Final_Project.ipynb              # Main analysis notebook
+├── amazon_review_fraud_slides.pptx # Project presentation
 └── README.md
-```
 
 ---
 
