@@ -43,7 +43,6 @@ Future systems should incorporate semantic analysis instead of relying solely on
 ---
 
 ## Project Structure
-
 The repository is organized as follows:
 
 ```text
@@ -52,7 +51,7 @@ amazon-review-fraud-analysis/
 ├── Final_Project.ipynb              # Main analysis notebook
 ├── amazon_review_fraud_slides.pptx # Project presentation
 └── README.md
-
+```
 ---
 
 ## Tools & Technologies
